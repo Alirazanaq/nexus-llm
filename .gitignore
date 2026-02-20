@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# llama.cpp build artifacts
+llama.cpp/
+llama-cpp-build/
+
+# Model files (too large for git)
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
+fp16_original/
