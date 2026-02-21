@@ -238,7 +238,7 @@ The tool checks for your HF token and offers in-TUI setup:
 ## 🏗️ Project Structure
 
 ```
-nexus-converter/
+nexus-llm/
 ├── nexus_converter.py    # Main converter TUI
 ├── system_check.py       # Hardware detection module
 ├── model_info.py         # HuggingFace model info parser
